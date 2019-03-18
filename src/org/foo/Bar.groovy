@@ -2,8 +2,8 @@
 package org.foo
 
 class Bar{
-    static void log(String message){
-        println "I am from LogUtil!!!"
+    static void log(){
+        echo "I am from LogUtil!!!"
     }
 }
 

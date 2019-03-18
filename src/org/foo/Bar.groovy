@@ -3,7 +3,7 @@ package org.foo
 
 class Bar{
     static void log(){
-        echo "I am from LogUtil!!!"
+        print "I am from LogUtil!!!"
     }
 }
 

@@ -2,7 +2,9 @@
 package org.foo
 
 class Bar{
-    static void log(){
+    static String foo = 'foo bar !!!'
+
+    static def log(){
         print "I am from LogUtil!!!"
     }
 }

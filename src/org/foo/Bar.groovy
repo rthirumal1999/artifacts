@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-package foo.bar 
+package org.foo
 
 class LogUtil {
     static void log(String message){
